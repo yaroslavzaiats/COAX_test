@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+.screen_saver {
+    position: fixed;
+    opacity: 0;
+    transition: .5s opacity;
+}
+.visible{
+    opacity: 1;
+}
